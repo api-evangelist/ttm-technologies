@@ -1,0 +1,117 @@
+aid: ttm-technologies
+name: TTM Technologies
+url: https://raw.githubusercontent.com/api-evangelist/ttm-technologies/refs/heads/main/apis.yml
+created: '2026-05-05'
+modified: '2026-05-23'
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+specificationVersion: '0.19'
+description: >-
+  TTM Technologies, Inc. (NASDAQ: TTMI) is a leading global manufacturer of
+  technology products, including mission systems, radio frequency components,
+  RF microwave and microelectronic assemblies, and technologically advanced
+  printed circuit boards (PCBs). TTM serves aerospace and defense, data center
+  computing, medical, industrial and instrumentation, automotive, and
+  networking and communications markets. The company reported approximately
+  $2.9B in FY2025 revenue, operates 24 specialized facilities across North
+  America and Asia Pacific, and employs more than 18,000 people. TTM expanded
+  its defense electronics footprint with the 2022 acquisition of Telephonics
+  from Griffon Corporation.
+tags:
+  - Aerospace
+  - Contract Manufacturing
+  - Defense
+  - Electronics Manufacturing
+  - Mission Systems
+  - PCB
+  - RF and Microwave
+  - Supply Chain
+apis: []
+common:
+  - type: Website
+    url: https://www.ttm.com
+  - type: About
+    url: https://www.ttm.com/about-ttm
+  - type: Products and Services
+    url: https://www.ttm.com/products-services
+  - type: Markets
+    url: https://www.ttm.com/markets
+  - type: Tech Academy
+    url: https://www.ttm.com/ttm-tech-academy
+  - type: Blog
+    url: https://www.ttm.com/blog
+  - type: Investors
+    url: https://investors.ttm.com/
+  - type: Careers
+    url: https://ttmtech.wd5.myworkdayjobs.com/
+  - type: Suppliers
+    url: https://www.ttm.com/suppliers
+  - type: Contact
+    url: https://www.ttm.com/contact-us
+  - type: Customer Portal
+    url: https://salesportal.ttmtech.com/
+  - type: Data Upload
+    url: https://www.ttm.com/en/contact-us-and-support/data-upload
+  - type: GitHubOrganization
+    url: https://github.com/TTM-Technologies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ttm-technologies
+  - type: Features
+    data:
+      - name: Printed Circuit Board Manufacturing
+        description: >-
+          Conventional, HDI, flex and rigid-flex, RF/microwave, and
+          substrate-like PCBs, plus thermal-management interconnect for
+          high-reliability and high-density applications.
+      - name: RF and Microwave Components
+        description: >-
+          Xinger surface-mount RF components, circulators, beamforming
+          networks, transceivers, integrated RF/microwave assemblies, and
+          resistive components for radar, communications, and electronic
+          warfare systems.
+      - name: Microelectronics and Custom Assemblies
+        description: >-
+          Custom and standard multi-chip modules (MCMs), mixed-signal ASICs,
+          and ceramic substrates engineered for aerospace, defense, and
+          industrial environments.
+      - name: Mission Systems
+        description: >-
+          Radar, communications, and surveillance systems delivered through
+          TTM's Telephonics-derived defense business serving prime contractors
+          and government end customers.
+      - name: System Integration
+        description: >-
+          Backplane assembly, MicroTCA platforms, and custom specialty
+          electronic products integrating PCB, RF, and microelectronic
+          building blocks into complete subsystems.
+  - type: UseCases
+    data:
+      - name: Aerospace and Defense Electronics
+        description: >-
+          Radar arrays, electronic warfare subsystems, secure communications,
+          and ruggedized mission electronics for prime defense contractors and
+          allied government programs. A&D represents roughly 44% of TTM
+          revenue.
+      - name: Data Center Computing Infrastructure
+        description: >-
+          High-layer-count and HDI PCBs for AI accelerator boards, switches,
+          and server platforms supporting hyperscale data center build-outs
+          (~24% of revenue).
+      - name: Medical, Industrial, and Instrumentation
+        description: >-
+          PCBs and assemblies for diagnostic imaging, surgical robotics,
+          industrial automation, and test and measurement instrumentation
+          (~14% of revenue).
+      - name: Automotive Electronics
+        description: >-
+          PCBs for ADAS, infotainment, EV powertrain, and connectivity
+          modules supplying tier-one automotive manufacturers (~10% of
+          revenue).
+      - name: Networking and Communications
+        description: >-
+          PCBs and RF assemblies for wireless infrastructure, 5G base
+          stations, optical networking, and broadband equipment (~8% of
+          revenue).
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
