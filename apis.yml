@@ -28,6 +28,8 @@ tags:
   - Supply Chain
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ttm-technologies-domain-security.yml
   - type: Website
     url: https://www.ttm.com
   - type: About
