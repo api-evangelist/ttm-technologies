@@ -1,10 +1,21 @@
 aid: ttm-technologies
 name: TTM Technologies
 url: https://raw.githubusercontent.com/api-evangelist/ttm-technologies/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 created: '2026-05-05'
 modified: '2026-05-23'
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ttm-technologies.png
 specificationVersion: '0.19'
 description: >-
   TTM Technologies, Inc. (NASDAQ: TTMI) is a leading global manufacturer of
