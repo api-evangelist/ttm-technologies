@@ -1,4 +1,4 @@
-# TTM Technologies (ttm-technologies)
+# TTM Technologies
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,62 +66,79 @@
 
 TTM Technologies, Inc. (NASDAQ: TTMI) is a leading global manufacturer of technology products, including mission systems, radio frequency components, RF microwave and microelectronic assemblies, and technologically advanced printed circuit boards (PCBs). TTM serves aerospace and defense, data center computing, medical, industrial and instrumentation, automotive, and networking and communications markets. The company reported approximately $2.9B in FY2025 revenue, operates 24 specialized facilities across North America and Asia Pacific, and employs more than 18,000 people. TTM expanded its defense electronics footprint with the 2022 acquisition of Telephonics from Griffon Corporation.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ttm-technologies/refs/heads/main/apis.yml)
+**Areas:** Aerospace · Contract Manufacturing · Defense · Electronics Manufacturing · Mission Systems · PCB · RF and Microwave · Supply Chain
 
-## Scope
+## TTM Technologies on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for TTM Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ttm-technologies/](https://apis.io/providers/ttm-technologies/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
- - Aerospace, Contract Manufacturing, Defense, Electronics Manufacturing, Mission Systems, PCB, RF and Microwave, Supply Chain
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Ttm Technologies Domain Security](https://apis.io/security/ttm-technologies/ttm-technologies-domain-security/)
 
-No public APIs have been documented. TTM Technologies operates a login-gated Sales Intelligence Portal at `salesportal.ttmtech.com` and a customer Data Upload form for file submission, but it does not publish a developer portal, public REST/SOAP API, OpenAPI specification, SDKs, webhooks, or an EDI integration catalog. The `github.com/TTM-Technologies` organization exists (registered September 2019) but currently has zero public repositories.
+## Where to find this API
 
-## Features
-
-- **Printed Circuit Board Manufacturing** — Conventional, HDI, flex and rigid-flex, RF/microwave, and substrate-like PCBs, plus thermal-management interconnect for high-reliability and high-density applications.
-- **RF and Microwave Components** — Xinger surface-mount RF components, circulators, beamforming networks, transceivers, integrated RF/microwave assemblies, and resistive components for radar, communications, and electronic warfare systems.
-- **Microelectronics and Custom Assemblies** — Custom and standard multi-chip modules (MCMs), mixed-signal ASICs, and ceramic substrates engineered for aerospace, defense, and industrial environments.
-- **Mission Systems** — Radar, communications, and surveillance systems delivered through TTM's Telephonics-derived defense business serving prime contractors and government end customers.
-- **System Integration** — Backplane assembly, MicroTCA platforms, and custom specialty electronic products integrating PCB, RF, and microelectronic building blocks into complete subsystems.
-
-## Use Cases
-
-- **Aerospace and Defense Electronics** (~44% of revenue) — Radar arrays, EW subsystems, secure communications, and ruggedized mission electronics for prime defense contractors and allied government programs.
-- **Data Center Computing Infrastructure** (~24% of revenue) — High-layer-count and HDI PCBs for AI accelerator boards, switches, and server platforms supporting hyperscale data center build-outs.
-- **Medical, Industrial, and Instrumentation** (~14% of revenue) — PCBs and assemblies for diagnostic imaging, surgical robotics, industrial automation, and test and measurement instrumentation.
-- **Automotive Electronics** (~10% of revenue) — PCBs for ADAS, infotainment, EV powertrain, and connectivity modules supplying tier-one automotive manufacturers.
-- **Networking and Communications** (~8% of revenue) — PCBs and RF assemblies for wireless infrastructure, 5G base stations, optical networking, and broadband equipment.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.ttm.com)
-- [About](https://www.ttm.com/about-ttm)
-- [Products and Services](https://www.ttm.com/products-services)
-- [Markets](https://www.ttm.com/markets)
-- [Tech Academy](https://www.ttm.com/ttm-tech-academy)
 - [Blog](https://www.ttm.com/blog)
-- [Investors](https://investors.ttm.com/)
-- [Careers](https://ttmtech.wd5.myworkdayjobs.com/)
-- [Suppliers](https://www.ttm.com/suppliers)
-- [Contact](https://www.ttm.com/contact-us)
-- [Customer Portal](https://salesportal.ttmtech.com/)
-- [Data Upload](https://www.ttm.com/en/contact-us-and-support/data-upload)
-- [GitHub Organization](https://github.com/TTM-Technologies)
-- [LinkedIn](https://www.linkedin.com/company/ttm-technologies)
+- [GitHub](https://github.com/TTM-Technologies)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ttm-technologies/](https://apis.io/providers/ttm-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TTM Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ttm-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
